@@ -6,3 +6,4 @@ Comandos
 "ln" - Checa todos os arquivos que estão no diretório
 "cd .." - Voltar 1 camada do diretório
 "git add ." - commita tudo
+"git push" - para mandar do pc para nuvem
