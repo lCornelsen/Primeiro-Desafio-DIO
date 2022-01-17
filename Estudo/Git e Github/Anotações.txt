@@ -1,0 +1,8 @@
+Comandos
+
+"Git add" -  adciona uma alteração no diretório
+"Git clone" - Serve para fazer uma cópia do diretório original
+"Git Status" - Faz o monitoramento 
+"ln" - Checa todos os arquivos que estão no diretório
+"cd .." - Voltar 1 camada do diretório
+"git add ." - commita tudo
