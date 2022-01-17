@@ -2,5 +2,5 @@
 Repositório criado para desafio da DIO
 
 ## Links uteis
-[Manual Markdown]
+[Códigos Markdown]
 https://bit.ly/33peDri
